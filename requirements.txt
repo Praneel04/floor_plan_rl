@@ -11,6 +11,11 @@ python-dotenv
 gymnasium
 tensorboard
 wandb
+stable-baselines3[extra]
+torch
+torchvision
+tensorboard
+wandb
 # h5py
 # datasets
 # transformers
